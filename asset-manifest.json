@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.fc399252.css",
-    "main.js": "/static/js/main.de498561.js",
+    "main.css": "/static/css/main.b827efa7.css",
+    "main.js": "/static/js/main.50da6adc.js",
     "static/media/portfolio.gif": "/static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
@@ -37,6 +37,7 @@
     "static/media/intel_logo.jpg": "/static/media/intel_logo.d7577f35a3dac4e5636d.jpg",
     "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.42a2cdaf132097cc499e.svg",
     "static/media/manOnTable.svg": "/static/media/manOnTable.f861b03b5a2d1a28c198.svg",
+    "static/media/aws-certified-solutions-architect-associate.png": "/static/media/aws-certified-solutions-architect-associate.199c989116d170bef849.png",
     "static/media/muffito_logo.png": "/static/media/muffito_logo.a40e290031eaf389bde1.png",
     "static/media/KallimataScript.ttf": "/static/media/KallimataScript.350d23037a279b2286d9.ttf",
     "static/media/Asem.otf": "/static/media/Asem.268250bd0c608f402587.otf",
@@ -67,11 +68,11 @@
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.1c2312558eb2e5f04a45.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
-    "main.fc399252.css.map": "/static/css/main.fc399252.css.map",
-    "main.de498561.js.map": "/static/js/main.de498561.js.map"
+    "main.b827efa7.css.map": "/static/css/main.b827efa7.css.map",
+    "main.50da6adc.js.map": "/static/js/main.50da6adc.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc399252.css",
-    "static/js/main.de498561.js"
+    "static/css/main.b827efa7.css",
+    "static/js/main.50da6adc.js"
   ]
 }
